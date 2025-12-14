@@ -40,6 +40,3 @@ The project is a streamlit program as seen below, depending on input given by us
 
 <img width="500" height="280" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/b856d1b5-7df7-43b0-b40e-ca77c5519e27" />
 
-
-Solutions
-1. T: 2 P: 0 C: 0
