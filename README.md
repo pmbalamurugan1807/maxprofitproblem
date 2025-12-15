@@ -36,6 +36,10 @@ Solutions
 2. T: 0 P: 1 C: 0
 
 
+Prerequisites:
+pip install streamlit
+
+
 The project is a streamlit program as seen below, the output will be given based on the user input
 
 <img width="500" height="280" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/b856d1b5-7df7-43b0-b40e-ca77c5519e27" />
